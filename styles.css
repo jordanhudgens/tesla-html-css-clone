@@ -79,6 +79,7 @@ html {
 	color: white;
 	padding: 10px 24px 10px 24px;
 	max-width: 30px;
+	border: 1px solid transparent;
 }
 
 #buttons a {
